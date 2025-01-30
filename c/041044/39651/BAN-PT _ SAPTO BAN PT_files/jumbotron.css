@@ -1,0 +1,8 @@
+.jumbotron {
+    /* add bootstrap jumbotron background image */
+    background: url("https://sapto.banpt.or.id/images/wood1.jpg");
+
+    background-size: 100%;
+    /* change bootstrap jumbotron text color */
+    /*color: #FFF;*/
+
